@@ -13,12 +13,13 @@
   }
 }
 body {
-  display: flex;
+  display: flex;  
   align-items: center;
   justify-content: center;
   height: 100vh;
 }
 .div-container {
+  /* display: flex;  */
   background-color: rgba(212, 226, 226, 0.741);
   height: 400px;
   width: 400px;
